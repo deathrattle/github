@@ -1,10 +1,10 @@
 ---
-token: "{{system.github_oauth_token}}"
-user: "Stanley"
-password: "P4ssw0rd"
+token: "ad523cdc56cdc28fb99a265dc87c767a79563854"
+user: "sangrah92"
+password: "SK#thehero3164"
 github_type: "online"
-web_url: "https://github.example.com"
-base_url: "https://github.example.com/api/v3"
+web_url: "https://github.com"
+base_url: "https://github.com/api/v3"
 deployment_environment: "production"
 repository_sensor:
   event_type_whitelist:

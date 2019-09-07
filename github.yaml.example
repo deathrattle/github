@@ -15,8 +15,8 @@ repository_sensor:
     - "ReleaseEvent"
     - "PushEvent"
   repositories:
-    - user: "StackStorm"
-      name: "st2"
-    - user: "StackStorm"
-      name: "st2contrib"
+    - user: "sangrah92"
+      name: "api_call"
+    - user: "sangrah92"
+      name: "hello_sensor"
   count: 30  # Maximum number of old events to retrieve
